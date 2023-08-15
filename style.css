@@ -1,0 +1,44 @@
+*{
+    scroll-behavior: smooth;
+}
+body {
+    text-align: center;
+     background-color: beige;
+    background-size: cover;
+}
+h1 {
+    font-size: 3rem;
+}
+h2 {
+    font-size: 2rem;
+}
+h3 {
+    font-size: 1.4rem;
+}
+p {
+    font-size: 1rem;
+}
+.enlaces {
+    background-color: black;
+    height: 1rem;
+   /*  background: url("img/arg.png");
+    background-size: contain; */
+} 
+a {
+    outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+a:link {
+    color: white;
+}
+a:visited {
+    color: white;
+}
+#titulo {
+    font-size: 5rem;
+    background: no-repeat url("img/bandera.png");
+    background-size: 400px 75px;
+    background-position: center;
+}
+
